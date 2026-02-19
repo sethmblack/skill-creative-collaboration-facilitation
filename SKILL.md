@@ -3,8 +3,9 @@ name: creative-collaboration-facilitation
 description: Design and facilitate high-stakes creative collaboration among talented individuals, managing egos while producing excellent work.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3708
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - creative-collaboration-facilitation
 - transformation
