@@ -4,7 +4,7 @@ description: Design and facilitate high-stakes creative collaboration among tale
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3708
+  version: 1.0.3709
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - creative-collaboration-facilitation
